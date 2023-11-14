@@ -1,0 +1,9 @@
+h1 {color: red; background-color: #000000; font-size: 20px; text-align: center;}
+h2 {color: rgb(252,252,252); background-color: hsl(128,75%,24%); font-weight: bolder; text-decoration: underline;}
+h3 {background-color: yellow; font-style: italic; line-height: 5; word-spacing: 2em;}
+p {color: #2955a8; font-variant: small-caps;}
+ul {background-color: #9bceee; letter-spacing: 0.075em;}
+ol {color: lightgray; background-color: hsl(0,0%,100%); letter-spacing: 0.075em;}
+body {background-color: hsl(303, 85%, 34%);}
+em {text-transform: uppercase;}
+strong {text-shadow: 1px 1px 3px #f9b8f6;}
